@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NokiaSimulation/1.0.0": {
+        "runtime": {
+          "NokiaSimulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NokiaSimulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
